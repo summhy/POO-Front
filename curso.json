@@ -1,4 +1,23 @@
-{"curso": "Front",
-"participantes":[{"id":1,"nombre":"Valentina", "apellido":"Roco"},
-{"id":2,"nombre":"Rodrigo", "apellido":"Pequeño"},
-{"id":3,"nombre":"Franchesca", "apellido":"Ramirez"}]}
+{
+    "curso": "Front",
+    "participantes": [
+        {
+            "id": 1,
+            "nombre": "Valentina",
+            "apellido": "Roco",
+            "descripcion": "Me gusta patinar, mojarme bajo la lluvia y caminar descalza por el mar"
+        },
+        {
+            "id": 2,
+            "nombre": "Rodrigo",
+            "apellido": "Pequeño",
+            "descripcion": "Me gusta dibujar, tocar el bajo y dedicar serenatas"
+        },
+        {
+            "id": 3,
+            "nombre": "Franchesca",
+            "apellido": "Ramirez",
+            "descripcion": "Soy el doble de shakira, me gusta bailar apretao"
+        }
+    ]
+}
